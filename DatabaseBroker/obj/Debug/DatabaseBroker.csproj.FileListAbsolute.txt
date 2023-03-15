@@ -1,0 +1,11 @@
+C:\ProSoft\SeminarskiRad\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\ProSoft\SeminarskiRad\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\ProSoft\SeminarskiRad\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\ProSoft\SeminarskiRad\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\ProSoft\SeminarskiRad\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\Administrator\source\repos\SeminarskiRad\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\Administrator\source\repos\SeminarskiRad\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\Administrator\source\repos\SeminarskiRad\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SeminarskiRad\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SeminarskiRad\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\Administrator\source\repos\SeminarskiRad\DatabaseBroker\obj\Debug\DatabaseBroker.pdb

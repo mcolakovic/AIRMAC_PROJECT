@@ -1,0 +1,13 @@
+C:\ProSoft\SeminarskiRad\Domain\bin\Debug\Domain.dll
+C:\ProSoft\SeminarskiRad\Domain\bin\Debug\Domain.pdb
+C:\ProSoft\SeminarskiRad\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\ProSoft\SeminarskiRad\Domain\obj\Debug\Domain.dll
+C:\ProSoft\SeminarskiRad\Domain\obj\Debug\Domain.pdb
+C:\ProSoft\SeminarskiRad\Domain\bin\Debug\Domain.dll.config
+C:\Users\Administrator\source\repos\SeminarskiRad\Domain\bin\Debug\Domain.dll.config
+C:\Users\Administrator\source\repos\SeminarskiRad\Domain\bin\Debug\Domain.dll
+C:\Users\Administrator\source\repos\SeminarskiRad\Domain\bin\Debug\Domain.pdb
+C:\Users\Administrator\source\repos\SeminarskiRad\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SeminarskiRad\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SeminarskiRad\Domain\obj\Debug\Domain.dll
+C:\Users\Administrator\source\repos\SeminarskiRad\Domain\obj\Debug\Domain.pdb
